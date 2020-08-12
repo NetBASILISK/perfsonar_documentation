@@ -1,7 +1,7 @@
 Cryo EM data egress testing via perfSONAR
 
 
-First lookup SDSC perfSONAR nodes via
+Optionally lookup SDSC perfSONAR nodes via
 
 http://stats.es.net/ServicesDirectory/
 

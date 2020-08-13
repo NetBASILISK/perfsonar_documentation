@@ -1,5 +1,7 @@
 # perfsonar_documentation
 
+[perfSONAR Lookup Service](http://stats.es.net/ServicesDirectory/)
+
 [perfSONAR Test & Tool Reference Sheet](https://docs.perfsonar.net/pscheduler_ref_tests_tools.html)
 
 [CryoEM](https://github.com/NetBASILISK/perfsonar_documentation/blob/master/CryoEM.md)
